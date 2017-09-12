@@ -1,1 +1,1 @@
-print "cavallo"
+print("cavallo")
